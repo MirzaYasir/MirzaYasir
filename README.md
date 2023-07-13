@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Software Engineer working remotly and living in Lahore, Pakistan
+## Hi 👋, I'm a Software Engineer working remotely and living in Lahore, Pakistan
 
 <p align="left">
   <a href="https://leetcode.com/MirzaYasir/">
