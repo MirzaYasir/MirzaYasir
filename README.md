@@ -2,8 +2,9 @@
 
 <p align="left">
   <a href="https://leetcode.com/MirzaYasir/">
-    <img src="https://cp-logo.vercel.app/leetcode/MirzaYasir" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/alihassan4198" alt="Leet code rating" />
   </a>
+  
   <a href="https://www.hackerrank.com/MirzaYasir">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
