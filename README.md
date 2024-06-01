@@ -30,7 +30,7 @@
 - 🌱 Learning all about **Full Stack Development**
 - 💬 Ping me about **Node**, **React**, **React Native** **Vue**, **Angular**
 - 📫 Reach me: [linkedin.com/in/mirzayasir16/](https://www.linkedin.com/in/mirzayasir16/)
-- 📝 Checkout my [Resume](cv_full_stack_developer.pdf).
+- 📝 Checkout my [Resume](Mirza_Yasir_Full_Stack_Engineer.pdf).
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
